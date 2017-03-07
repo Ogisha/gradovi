@@ -36,7 +36,7 @@
         
         methods: {
             natrag() {
-                window.open("/index.html","_self");
+                window.open("http://www.miniscule-epics.com/test-gradovi/index.html","_self");
             },
             
             vratiProcenat() {
